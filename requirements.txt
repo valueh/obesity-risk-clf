@@ -1,7 +1,0 @@
-pandas
-plotly
-dash
-dash_bootstrap_components
-scikit-learn
-xgboost
-gunicorn
