@@ -15,7 +15,7 @@
 3. Обучить модель с наибольшей точностью диагнозов.
 4. Проанализировать результаты и предложить улучшения модели.
 
-![2](https://github.com/user-attachments/assets/1f1b4d0e-df2b-4463-8ce6-237f1c21c36d)
+![2](https://github.com/user-attachments/assets/a66fea36-e7c3-4f94-b0bb-6f9d85433516)
 
 ## Файлы
 
